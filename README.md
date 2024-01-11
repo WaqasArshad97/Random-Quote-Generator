@@ -13,7 +13,7 @@ This project is a simple Random Quote Generator implemented using HTML, CSS, and
 
 ## Preview
 
-![Random Quote Generator Preview](./preview.png)
+![Random Quote Generator Preview](https://github.com/WaqasArshad97/Random-Quote-Generator/assets/140519770/23c6d991-8448-48bc-9dc2-0f80cff723eb)
 
 ## Usage
 
